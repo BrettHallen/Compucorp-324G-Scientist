@@ -7,6 +7,19 @@ This calculator was also sold under other manufacturers' branding:
 - IME
 - Sumlock Anita
 
+Other models in the 300-series were:
+- 320G Scientist with basic scientific functions
+- 322G Scientist with scientific functions plus programmability (one 80-step program)
+- 324G Scientist with scientific functions plus programmability (two 80-step programs)
+- 325 Scientist with scientific functions, programmability, printing and cassette tape storage in a much larger case
+- 326G Scientist with scientific functions, programmability and cassette tape storage
+- 327 Scientist with 4x internal memory of the 325
+- 340 Statistician with statistics functions
+- 342 Statistician with statistics functions plus programmability (one program)
+- 344 Statistician with statistics functions plus programmability (two programs)
+- 354 Surveyor with scientific functions plus programmability (one program)
+- 360 Bond Trader with bond trading functions
+
 ## Power
 My 324G came with a 240VAC (Australian) power supply that output an unregulated 11VDC (no load).<br>
 
