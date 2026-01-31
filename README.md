@@ -7,6 +7,13 @@ This calculator was also sold under other manufacturers' branding:
 - IME
 - Sumlock Anita
 
+## Power
+My 324G came with a 240VAC (Australian) power supply that output an unregulated 11VDC (no load).<br>
+
+It was originally designed to take four D-size NiCd rechargeable batteries.  Probably not a good idea to use non-rechargeable batteries if you are connecting the AC power adaptor.<br>
+
+I have confirmed that the calculator looks to run okay on 5VDC (i.e. USB) consuming just over 1A.  I created a USB-to-2.1mm plug to confirm.
+
 ## [Integrated Circuits](/ICs)
 Information about the ICs used in the calculator.
 
