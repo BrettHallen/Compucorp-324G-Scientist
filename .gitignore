@@ -1,0 +1,5 @@
+.DS_Store
+/KiCad/Compucorp_324G_Scientist-backups
+*.kicad_prl
+*.pages
+*.numbers

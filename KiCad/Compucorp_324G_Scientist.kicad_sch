@@ -1,0 +1,107 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2d77b643-896b-4ca4-ac76-7c6cc0d5263f")
+	(paper "A4")
+	(title_block
+		(title "Compucorp 320-Series Scientist Calculator")
+		(date "1/FEB/2026")
+		(rev "WIP")
+		(company "Brett Hallen")
+		(comment 2 "I only have a 324G so that is my reference")
+		(comment 3 "There may/will be errors")
+		(comment 4 "NOTE! A Work In Progress ... INCOMPLETE")
+	)
+	(lib_symbols)
+	(sheet
+		(at 236.22 19.05)
+		(size 38.1 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a09398db-93e2-4104-9e40-52c77574b0b0")
+		(property "Sheetname" "Keyboard"
+			(at 236.22 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compucorp_324G_Keyboard.kicad_sch"
+			(at 236.22 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Compucorp_324G_Scientist"
+				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 236.22 58.42)
+		(size 38.1 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f34092bb-66e3-4808-b1db-6d115583766d")
+		(property "Sheetname" "Scan Board"
+			(at 236.22 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compucorp_324G_Scan_Board.kicad_sch"
+			(at 236.22 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Compucorp_324G_Scientist"
+				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
