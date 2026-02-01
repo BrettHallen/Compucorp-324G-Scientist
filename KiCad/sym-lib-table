@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Compucorp_324G_Scientist")(type "KiCad")(uri "${KIPRJMOD}/Compucorp_324G_Scientist.kicad_sym")(options "")(descr ""))
+)

@@ -15,6 +15,48 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 237.49 99.06)
+		(size 38.1 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "29597935-4ae9-46d1-9c96-37a83ad2c138")
+		(property "Sheetname" "Processor Board"
+			(at 237.49 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compucorp_324G_Processor_Board.kicad_sch"
+			(at 237.49 122.5046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Compucorp_324G_Scientist"
+				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 236.22 19.05)
 		(size 38.1 20.32)
 		(exclude_from_sim no)
