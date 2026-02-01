@@ -20,6 +20,10 @@ Other models in the 300-series were:
 - 354 Surveyor with scientific functions plus programmability (one program)
 - 360 Bond Trader with bond trading functions
 
+## Videos
+- [Part 1 (Power On & Disassembly)](https://youtu.be/NjJ8rrLbnn0)
+- [Part 2 (Display Repair & USB Power)](https://youtu.be/J1Y7ZJ_NeyI)
+
 ## Power
 My 324G came with a 240VAC (Australian) power supply that output an unregulated 11VDC (no load).<br>
 
