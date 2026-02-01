@@ -9,16 +9,17 @@ This calculator was also sold under other manufacturers' branding:
 
 Other models in the 300-series were:
 - 320G Scientist with basic scientific functions
-- 322G Scientist with scientific functions plus programmability (one 80-step program)
-- 324G Scientist with scientific functions plus programmability (two 80-step programs)
-- 325 Scientist with scientific functions, programmability, printing and cassette tape storage in a much larger case
-- 326G Scientist with scientific functions, programmability and cassette tape storage
+- 322G Scientist with additional programmability (one 80-step program)
+- 324G Scientist with additional programmability (two 80-step programs)
+- 325 Scientist with additional programmability, printing and cassette tape storage in a much larger case
+- 326G Scientist with additional programmability and cassette tape storage
 - 327 Scientist with 4x internal memory of the 325
 - 340 Statistician with statistics functions
-- 342 Statistician with statistics functions plus programmability (one program)
-- 344 Statistician with statistics functions plus programmability (two programs)
+- 342 Statistician with additional programmability (one program)
+- 344 Statistician with additional programmability (two programs)
 - 354 Surveyor with scientific functions plus programmability (one program)
 - 360 Bond Trader with bond trading functions
+- 360/65 Bond Trader with additional FED/MUNI switch
 
 ## Videos
 - [Part 1 (Power On & Disassembly)](https://youtu.be/NjJ8rrLbnn0)
