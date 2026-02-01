@@ -1,5 +1,6 @@
-# Compucorp 324G IC List
+# Compucorp 324G Component List
 
+## ICs
 | IC       | Label  | Location        | Purpose                     |
 |----------|--------|-----------------|-----------------------------|
 | TMC 1871 | TCL 03 | Memory Board    |                             |

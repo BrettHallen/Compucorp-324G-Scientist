@@ -27,8 +27,8 @@ It was originally designed to take four D-size NiCd rechargeable batteries.  Pro
 
 I have confirmed that the calculator looks to run okay on 5VDC (i.e. USB) consuming just over 1A.  I created a USB-to-2.1mm plug to confirm.
 
-## [Integrated Circuits](/ICs)
-Information about the ICs used in the calculator.
+## [Component List](/Components)
+Information about the coomponents used in the calculator.
 
 ## [Keyboard](/Keyboard)
 Information about the keyboard matrix.
