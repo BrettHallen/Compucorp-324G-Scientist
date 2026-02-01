@@ -33,7 +33,7 @@ It was originally designed to take four D-size NiCd rechargeable batteries.  Pro
 I have confirmed that the calculator looks to run okay on 5VDC (i.e. USB) consuming just over 1A.  I created a USB-to-2.1mm plug to confirm.
 
 ## [Component List](/Components)
-Information about the coomponents used in the calculator.
+Information about the components used in the calculator.
 
 ## [Keyboard](/Keyboard)
 Information about the keyboard matrix.
@@ -49,15 +49,17 @@ My main target at the moment is the keyboard and Scan board due to the display i
 Any relevant manuals I might come across.
 
 ## [Panaplex II](/Panaplex_II_Display)
-Information about the Burroughs Panaplex II display used in the calculators.<br>
+Information about the Burroughs Panaplex II display used in the calculators as this seems hard-to-come-by.<br>
 
-The particular model is the 16 digit BR 16252.  On the 324G, at least, only 15 digits are really used (I think).  The 16th (first on left) is only used for a negative sign (?).<br>
+The particular model is the 16 digit BR 16252 which was used in other devices such as the HP 9815A.<br>
+
+On the 324G, at least, only 15 digits are really used (I think).  The 16th (first on left) is only used for a negative sign (?).<br>
 
 ## [Scan Board](/Scan_Board)
 Additional information about the Scan board.
 
 ## [Schematics](/Schematics)
-Schematics I've generated from KiCad.<br>
+Schematics I've generated from KiCad ... I doubt I'll ever find originals.<br>
 
 ## [Images](/Images)
-Photos of 324G calculator.
+Photos of 324G calculator and its internals.
