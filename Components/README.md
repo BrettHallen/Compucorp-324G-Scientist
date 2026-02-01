@@ -22,3 +22,8 @@
 | SN74L04N |        | Power Board     | Hex inverter                |
 | SN74L93N |        | Power Board     | 4-bit binary ripple counter |
 | 93L0059X |        | Power Board     |                             |
+
+## Other Components
+- Teledyne Kinetics Series K D401K028A 28-way ribbon cable connecting keyboard to Scan board
+- Burroughs Panaplex II BR 16252 16-digit display
+- Teledyne Kinetics TKC B408U040 40-way interboard connectors
