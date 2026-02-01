@@ -424,6 +424,14 @@
     [
       "29597935-4ae9-46d1-9c96-37a83ad2c138",
       "Processor Board"
+    ],
+    [
+      "5a5c41eb-715d-4fec-8dee-08af9d7e83c2",
+      "Power Board"
+    ],
+    [
+      "fe8084c3-1d78-420c-8837-09cebe2fe36c",
+      "Memory Board"
     ]
   ],
   "text_variables": {}

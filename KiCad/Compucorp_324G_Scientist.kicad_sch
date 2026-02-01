@@ -57,6 +57,48 @@
 		)
 	)
 	(sheet
+		(at 170.18 26.67)
+		(size 57.15 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5a5c41eb-715d-4fec-8dee-08af9d7e83c2")
+		(property "Sheetname" "Power Board"
+			(at 170.18 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compucorp_324G_Power_Board.kicad_sch"
+			(at 170.18 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Compucorp_324G_Scientist"
+				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 236.22 19.05)
 		(size 38.1 20.32)
 		(exclude_from_sim no)
@@ -136,6 +178,48 @@
 			(project "Compucorp_324G_Scientist"
 				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 166.37 60.96)
+		(size 63.5 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fe8084c3-1d78-420c-8837-09cebe2fe36c")
+		(property "Sheetname" "Memory Board"
+			(at 166.37 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compucorp_324G_Memory_Board.kicad_sch"
+			(at 166.37 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Compucorp_324G_Scientist"
+				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f"
+					(page "6")
 				)
 			)
 		)

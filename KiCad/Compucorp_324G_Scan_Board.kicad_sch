@@ -6405,6 +6405,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "a = to Panaplex Display\nb = to Processor Board"
+		(exclude_from_sim no)
+		(at 246.888 23.876 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ddb20c34-07b5-40d7-bfa2-07e0471e622c")
+	)
 	(junction
 		(at 222.25 66.04)
 		(diameter 0)
@@ -9827,46 +9838,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "2371ef85-88bd-4394-ad7f-e5b173d96ab5")
+			(uuid "2371ef85-88bd-4394-ad7f-e5b173d96ab6")
 		)
 		(pin "1"
-			(uuid "0d00a14b-158e-4062-b07d-44a0f97a8c68")
+			(uuid "0d00a14b-158e-4062-b07d-44a0f97a8c69")
 		)
 		(pin "5"
-			(uuid "ed90174b-532f-4b05-a33a-1e64ffe729a0")
+			(uuid "ed90174b-532f-4b05-a33a-1e64ffe729a1")
 		)
 		(pin "4"
-			(uuid "e924bcd6-1445-4c29-ac4e-ed0ea1010868")
+			(uuid "e924bcd6-1445-4c29-ac4e-ed0ea1010869")
 		)
 		(pin "3"
-			(uuid "8f641a43-a01d-4476-8676-db9a5bff1156")
+			(uuid "8f641a43-a01d-4476-8676-db9a5bff1157")
 		)
 		(pin "2"
-			(uuid "5fbe7983-3e69-4e2c-bfab-935f841a7699")
+			(uuid "5fbe7983-3e69-4e2c-bfab-935f841a769a")
 		)
 		(pin "6"
-			(uuid "f2a96a20-1418-4dad-a5b6-000789f9ae64")
+			(uuid "f2a96a20-1418-4dad-a5b6-000789f9ae65")
 		)
 		(pin "12"
-			(uuid "c8060c23-a921-4a5b-9b11-5b548d68b310")
+			(uuid "c8060c23-a921-4a5b-9b11-5b548d68b311")
 		)
 		(pin "9"
-			(uuid "cc7daca0-d6e1-4c70-b4f9-097d49cf0c50")
+			(uuid "cc7daca0-d6e1-4c70-b4f9-097d49cf0c51")
 		)
 		(pin "11"
-			(uuid "16fd5361-3122-49c7-b74e-99a0adf6b83c")
+			(uuid "16fd5361-3122-49c7-b74e-99a0adf6b83d")
 		)
 		(pin "8"
-			(uuid "332ca13e-1523-4e90-96eb-462ce5741043")
+			(uuid "332ca13e-1523-4e90-96eb-462ce5741044")
 		)
 		(pin "10"
-			(uuid "7692d71f-c7cb-418b-bd44-6935631ef4bd")
+			(uuid "7692d71f-c7cb-418b-bd44-6935631ef4be")
 		)
 		(pin "13"
-			(uuid "85ec6914-cd4b-41ef-8737-47403af7e594")
+			(uuid "85ec6914-cd4b-41ef-8737-47403af7e595")
 		)
 		(pin "14"
-			(uuid "cc0d8964-4ff8-4cf1-99e0-2e05df250f3f")
+			(uuid "cc0d8964-4ff8-4cf1-99e0-2e05df250f40")
 		)
 		(instances
 			(project ""
