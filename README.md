@@ -21,6 +21,8 @@ Other models in the 300-series were:
 - 360 Bond Trader with bond trading functions
 - 360/65 Bond Trader with additional FED/MUNI switch
 
+The "G" in the model name [indicates](https://www.johnwolff.id.au/calculators/Compucorp/Compucorp320.htm) it could be switched between degrees and gradians/grads/grades/gons via the GRAD/DEG switch.
+
 ## Videos
 - [Part 1 (Power On & Disassembly)](https://youtu.be/NjJ8rrLbnn0)
 - [Part 2 (Display Repair & USB Power)](https://youtu.be/J1Y7ZJ_NeyI)
