@@ -21,9 +21,9 @@
 | SN74L00N |        | Power Board     | Quad nand                   |
 | SN74L04N |        | Power Board     | Hex inverter                |
 | SN74L93N |        | Power Board     | 4-bit binary ripple counter |
-| 93L0059X |        | Power Board     |                             |
+| 93L0059X |        | Power Board     | 8-bit binary counter?       |
 
 ## Other Components
-- Teledyne Kinetics Series K D401K028A 28-way ribbon cable connecting keyboard to Scan board ([possible replacement](https://sites.google.com/site/bobscalculatorsandsliderules/home/electronic-calculators/compucorp): 30-way 2.54mm/0.1" pitch)
+- Teledyne Kinetics Series K D401K028A 28-way ribbon cable connecting keyboard to Scan board ([possible replacement](https://sites.google.com/site/bobscalculatorsandsliderules/home/electronic-calculators/compucorp): 30-way 2.54mm/0.1" pitch, or two 14-way?)
 - Burroughs Panaplex II BR 16252 16-digit display
 - Teledyne Kinetics TKC B408U040 40-way interboard connectors
