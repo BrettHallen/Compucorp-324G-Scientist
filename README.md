@@ -65,3 +65,6 @@ Schematics I've generated from KiCad ... I doubt I'll ever find originals.<br>
 
 ## [Images](/Images)
 Photos of 324G calculator and its internals.
+
+## [Test Harness](/Test_Harness)
+Idea I had about creating a test harness: install all the boards onto a special PCB to make testing/troubleshooting easier.  Work in progress.
