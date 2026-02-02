@@ -47,6 +47,13 @@ Note that these will likely be incomplete for a long time (forever) depending on
 
 My main target at the moment is the keyboard and Scan board due to the display issues I have.<br>
 
+### Completion
+- Keyboard: 100% complete
+- Scan Board: 10% complete
+- Processor Board: 95% complete
+- Memory Board: 95% complete
+- Power Board: 5% complete
+
 ## [Manuals](/Manuals)
 Any relevant manuals I might come across.
 
