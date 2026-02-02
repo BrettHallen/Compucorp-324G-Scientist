@@ -1543,7 +1543,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Compucorp_324G_Scientist:TMC_1869"
+		(symbol "Compucorp_324G_Scientist:TMC1869"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1555,7 +1555,7 @@
 					)
 				)
 			)
-			(property "Value" "TMC 1869"
+			(property "Value" "TMC1869 (TCL02)"
 				(at 5.08 2.54 0)
 				(effects
 					(font
@@ -1590,7 +1590,16 @@
 					(hide yes)
 				)
 			)
-			(symbol "TMC_1869_1_1"
+			(property "ki_keywords" "TCL02"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TMC1869_1_1"
 				(rectangle
 					(start -10.16 0)
 					(end 10.16 -53.34)
@@ -8369,188 +8378,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Compucorp_324G_Scientist:TMC_1869")
-		(at 35.56 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1497506b-9a9c-46a7-b8fa-a4022876e797")
-		(property "Reference" "U4"
-			(at 35.56 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TMC 1869"
-			(at 35.56 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 35.56 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Compucorp 300-series Scan Board"
-			(at 35.56 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cfd84fd7-1c0a-4938-a01e-e9af92575c4f")
-		)
-		(pin "3"
-			(uuid "73e071b9-3431-478a-afeb-f02932da9d7e")
-		)
-		(pin "11"
-			(uuid "2d7b2ec8-6436-47a1-bc2b-628315a3ad99")
-		)
-		(pin "10"
-			(uuid "74c74c3c-2a1e-4231-8211-98d5088d9c8a")
-		)
-		(pin "8"
-			(uuid "38e3eebb-8eb6-448c-86ad-0b3b27262555")
-		)
-		(pin "1"
-			(uuid "838252a1-d8e6-4002-b128-11d32bc7b8df")
-		)
-		(pin "13"
-			(uuid "0b5a39c7-53b6-41cb-8475-20287b33b0d8")
-		)
-		(pin "12"
-			(uuid "bcf026e0-abda-45ba-a60f-72e65d8dce47")
-		)
-		(pin "9"
-			(uuid "34a698ef-6a51-4953-aa23-8fb56d537688")
-		)
-		(pin "6"
-			(uuid "bfc36209-5634-43cf-ba3d-efb1def1c167")
-		)
-		(pin "7"
-			(uuid "f293a750-27d9-49f1-bb9f-fb62c3ecaff1")
-		)
-		(pin "14"
-			(uuid "a1ea8c2a-fdeb-46cf-ba16-f841faad24ab")
-		)
-		(pin "15"
-			(uuid "5533a1db-153f-412a-9969-bfbcc7c61bf1")
-		)
-		(pin "16"
-			(uuid "2042bd13-772f-4679-b869-559c439ba35d")
-		)
-		(pin "4"
-			(uuid "231a571f-0f9c-4110-9738-dc9f3805e37b")
-		)
-		(pin "5"
-			(uuid "85bf3212-8bad-4712-9d07-31695cb1a6ae")
-		)
-		(pin "36"
-			(uuid "a84ff7b3-dd85-47e8-bba5-626d0819526a")
-		)
-		(pin "19"
-			(uuid "c9f41545-2a1e-4356-a73b-bc4f3e603be2")
-		)
-		(pin "39"
-			(uuid "907c9052-3a1e-41c2-bfd3-c166bafbc5d9")
-		)
-		(pin "38"
-			(uuid "273cb6ac-1497-4114-a902-8a41cea26684")
-		)
-		(pin "20"
-			(uuid "ad093e03-c856-494a-8abe-18bdef77d4b9")
-		)
-		(pin "37"
-			(uuid "aaa8c954-4d42-4ed8-a730-ba2bb2f343ac")
-		)
-		(pin "40"
-			(uuid "9cdf93f6-a30f-4168-9906-3af46a13558f")
-		)
-		(pin "35"
-			(uuid "d597860f-40ba-4f58-a703-375a021e29ed")
-		)
-		(pin "34"
-			(uuid "88401b9d-5705-4e9c-920d-981b92dd2eb7")
-		)
-		(pin "22"
-			(uuid "de3483ec-5a11-4de3-a1aa-e86757c0c105")
-		)
-		(pin "27"
-			(uuid "f4aa49ac-c5ca-4c60-826b-34de240dd2f5")
-		)
-		(pin "24"
-			(uuid "4db516dd-1a4a-4029-afe0-a7c9fe1a7d05")
-		)
-		(pin "25"
-			(uuid "3de53473-5d27-43b6-99ed-0acc359fdc1a")
-		)
-		(pin "21"
-			(uuid "5dc8453d-1477-4e7f-8013-17ed6fa892b5")
-		)
-		(pin "23"
-			(uuid "41344ebf-a4bd-45ba-8fd8-f9384099e1b0")
-		)
-		(pin "28"
-			(uuid "aca05b05-96b5-40f1-84b4-e9a461d98ea7")
-		)
-		(pin "26"
-			(uuid "fa7567cc-36c9-41c3-84f0-90b3d1f2274d")
-		)
-		(pin "29"
-			(uuid "605fb420-e882-4dd9-8c12-d5de55572095")
-		)
-		(pin "18"
-			(uuid "2048fa5a-ae4e-4e2f-86ea-2b4a06027782")
-		)
-		(pin "17"
-			(uuid "81d1c7c5-2635-40f0-8efa-fdbce11b2ca0")
-		)
-		(pin "30"
-			(uuid "e966acdc-ff16-4bb5-a950-3077577364b5")
-		)
-		(pin "32"
-			(uuid "6c204b70-2fa5-42f3-88ef-cdc79df80341")
-		)
-		(pin "33"
-			(uuid "ebf855ea-dabe-4bbc-880f-6eade3b32893")
-		)
-		(pin "31"
-			(uuid "216df463-6ed4-4f0e-b554-9b7b083b2a2c")
-		)
-		(instances
-			(project "Compucorp_324G_Scientist"
-				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f/f34092bb-66e3-4808-b1db-6d115583766d"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 207.01 66.04 90)
 		(unit 1)
@@ -10020,6 +9847,188 @@
 			(project ""
 				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f/f34092bb-66e3-4808-b1db-6d115583766d"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Compucorp_324G_Scientist:TMC1869")
+		(at 35.56 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc579296-adcd-4df4-bd1c-2cd5bcd3682b")
+		(property "Reference" "U4"
+			(at 35.56 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TMC1869 (TCL02)"
+			(at 35.56 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Compucorp 300-series Scan Board"
+			(at 35.56 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7dac087d-557e-4146-8ef2-5b992c22487f")
+		)
+		(pin "1"
+			(uuid "b4bfa7e8-e2fe-42bd-9fb4-832a8cd7eca3")
+		)
+		(pin "3"
+			(uuid "4462a808-7f47-4b30-864d-7c8287ce4871")
+		)
+		(pin "16"
+			(uuid "5edbe9db-0fd2-471f-a1f0-a971974d760e")
+		)
+		(pin "15"
+			(uuid "3c2be08f-352d-4b22-bd99-dcb6b2898534")
+		)
+		(pin "14"
+			(uuid "0b670a12-101a-44d7-8e3e-d92cb8e6438e")
+		)
+		(pin "13"
+			(uuid "0ca4bda2-718f-4002-af60-2fbd9b1c56d9")
+		)
+		(pin "12"
+			(uuid "64c316eb-7437-489b-bf7b-15c43d188ca8")
+		)
+		(pin "11"
+			(uuid "3b4b2185-de18-4413-b3ba-0efca07d188e")
+		)
+		(pin "19"
+			(uuid "31732c13-a208-43f3-9f29-3969f4aadde0")
+		)
+		(pin "20"
+			(uuid "288cc1b2-c37e-413a-9614-b7caa2476020")
+		)
+		(pin "18"
+			(uuid "c58c157a-aefd-40b2-ad61-6c2fb389ae53")
+		)
+		(pin "17"
+			(uuid "d5e4e6d3-8e6a-40ab-bb61-19ccf2807410")
+		)
+		(pin "9"
+			(uuid "cbe280a4-9c17-4b4e-88c2-5b6dc33cd9b9")
+		)
+		(pin "10"
+			(uuid "11d53753-7173-4894-a054-984c7b0be376")
+		)
+		(pin "7"
+			(uuid "4f86d30a-4b5d-4fdb-a9ec-6f42f625ca12")
+		)
+		(pin "8"
+			(uuid "5929b663-bb3c-495b-9164-8e021963f825")
+		)
+		(pin "6"
+			(uuid "9bcbe61c-a57c-489f-a409-1ae42bf9515f")
+		)
+		(pin "5"
+			(uuid "255ae1c2-32cd-4108-bfc5-d719939bd724")
+		)
+		(pin "4"
+			(uuid "6bd32bf5-f7fe-40fe-bb65-8961dbf81b14")
+		)
+		(pin "22"
+			(uuid "64ee5ded-c176-40af-9b18-8d7fb464676f")
+		)
+		(pin "21"
+			(uuid "f4123202-00f3-4c59-aa82-584b63063e4c")
+		)
+		(pin "23"
+			(uuid "58d91d7e-dbcd-45c0-b757-8906c834c10e")
+		)
+		(pin "24"
+			(uuid "e318e7c5-ac84-4a2c-8a9c-ca0bd8acfaa6")
+		)
+		(pin "25"
+			(uuid "6341caed-8d30-4ff9-ad5a-1a8ed9aff4f2")
+		)
+		(pin "26"
+			(uuid "24fada31-c3c8-4ab9-8dae-189e8f92310c")
+		)
+		(pin "32"
+			(uuid "27ecc2b8-36bf-4e37-9b27-651e6f32cdf3")
+		)
+		(pin "31"
+			(uuid "a0b08d64-8078-4b3c-a58b-363e76011747")
+		)
+		(pin "30"
+			(uuid "63960095-4ee6-4fc1-abe6-e76c2e1f2594")
+		)
+		(pin "29"
+			(uuid "8f461276-9eef-41c4-95bb-aefd27a1fcb4")
+		)
+		(pin "28"
+			(uuid "c0d67c8d-55be-4a54-b555-56397053c0e2")
+		)
+		(pin "27"
+			(uuid "955203f7-8a06-4224-9233-301a84dbea85")
+		)
+		(pin "40"
+			(uuid "3442a0c6-d6be-4c0e-80fc-67115d24b83d")
+		)
+		(pin "39"
+			(uuid "55c40791-e069-4293-ab71-8b73b50ddfa5")
+		)
+		(pin "38"
+			(uuid "f3a731a0-5b5b-4598-8927-a3a367a64b78")
+		)
+		(pin "37"
+			(uuid "7935d9e2-69fb-4d5b-b797-dd5ceb4342d6")
+		)
+		(pin "36"
+			(uuid "47ff6bdb-be99-47e8-a2b4-4634b125c788")
+		)
+		(pin "35"
+			(uuid "d643ccb2-9c3f-43dc-92e0-94364395eb87")
+		)
+		(pin "34"
+			(uuid "ca08a31f-c41e-4e32-9e77-ea8f39980087")
+		)
+		(pin "33"
+			(uuid "b64019e7-9166-4e7a-bbc6-7fca80f4e0a1")
+		)
+		(instances
+			(project ""
+				(path "/2d77b643-896b-4ca4-ac76-7c6cc0d5263f/f34092bb-66e3-4808-b1db-6d115583766d"
+					(reference "U4")
 					(unit 1)
 				)
 			)
