@@ -3,9 +3,9 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "4198619d-c319-4b90-9e2d-22db1292795b")
-	(paper "A4")
+	(paper "A3")
 	(title_block
-		(title "Compucorp 320-Series Scan Board")
+		(title "Compucorp 300-Series Scan Board")
 		(rev "WIP")
 		(company "Brett Hallen")
 	)
@@ -7886,6 +7886,28 @@
 			)
 		)
 	)
+	(global_label "TCL07_23"
+		(shape input)
+		(at 264.16 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "91a5f12a-f0af-4dba-bb63-5c2108483cb4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.2165 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "KB LOAD"
 		(shape input)
 		(at 31.75 176.53 180)
@@ -7926,6 +7948,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TCL05_34"
+		(shape input)
+		(at 264.16 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9b0ad6c1-d96c-46b1-9b5a-19a85f31d1f7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.2165 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8036,6 +8080,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TCL07_24"
+		(shape input)
+		(at 264.16 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b14a6c1e-0f21-49b4-901f-63d7715e61de")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.2165 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)

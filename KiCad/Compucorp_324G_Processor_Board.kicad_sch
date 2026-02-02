@@ -3,9 +3,9 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "0aea9137-dcda-4644-9a92-1affb5012353")
-	(paper "A4")
+	(paper "A3")
 	(title_block
-		(title "Compucorp 320-Series Processor Board")
+		(title "Compucorp 300-Series Processor Board")
 		(date "2/FEB/2026")
 		(rev "WIP")
 		(company "Brett Hallen")

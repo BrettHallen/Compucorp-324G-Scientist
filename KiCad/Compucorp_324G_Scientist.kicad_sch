@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "2d77b643-896b-4ca4-ac76-7c6cc0d5263f")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "Compucorp 320-Series Scientist Calculator")
 		(date "1/FEB/2026")

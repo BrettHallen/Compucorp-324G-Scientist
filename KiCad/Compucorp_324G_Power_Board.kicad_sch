@@ -3,9 +3,9 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "e4b6ddce-d75d-4300-af3f-b68e03c9e3d7")
-	(paper "A4")
+	(paper "A3")
 	(title_block
-		(title "Compucorp 320-Series Power Board")
+		(title "Compucorp 300-Series Power Board")
 		(date "2/FEB/2026")
 		(rev "WIP")
 		(company "Brett Hallen")
@@ -1987,6 +1987,28 @@
 			)
 		)
 	)
+	(global_label "RAM_RW"
+		(shape input)
+		(at 243.84 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "18c088e8-dcdf-453f-a5ff-17e2218aa098")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 233.3558 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "+7.5V"
 		(shape input)
 		(at 157.48 124.46 180)
@@ -2572,13 +2594,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "678d769b-7ac3-4166-97b6-3b6f110f66aa")
+			(uuid "678d769b-7ac3-4166-97b6-3b6f110f66ab")
 		)
 		(pin "2"
-			(uuid "7ce41eaf-7442-4b2b-a7a6-66eec0d18089")
+			(uuid "7ce41eaf-7442-4b2b-a7a6-66eec0d1808a")
 		)
 		(pin "3"
-			(uuid "1a05bcfa-8527-4ca1-a148-8a1d455a7bdc")
+			(uuid "1a05bcfa-8527-4ca1-a148-8a1d455a7bdd")
 		)
 		(instances
 			(project ""

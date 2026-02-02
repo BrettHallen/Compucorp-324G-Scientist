@@ -3,9 +3,9 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "9d95bdda-57ae-48ea-9e9e-f8af30286d13")
-	(paper "A4")
+	(paper "A3")
 	(title_block
-		(title "Compucorp 320-Series Keyboard")
+		(title "Compucorp 300-Series Keyboard")
 		(date "1/FEB/2026")
 		(rev "WIP")
 		(company "Brett Hallen")
