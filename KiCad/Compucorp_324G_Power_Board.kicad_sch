@@ -2099,6 +2099,28 @@
 	)
 	(global_label "+5V"
 		(shape input)
+		(at 41.91 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6fcd04ed-fddc-4f22-9880-66cb97382c2b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.0543 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V"
+		(shape input)
 		(at 243.84 124.46 180)
 		(fields_autoplaced yes)
 		(effects

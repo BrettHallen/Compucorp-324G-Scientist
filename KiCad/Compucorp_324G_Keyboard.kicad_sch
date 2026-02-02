@@ -4578,7 +4578,7 @@
 			)
 		)
 	)
-	(global_label "TCL02 Pin 38"
+	(global_label "TCL02_38"
 		(shape input)
 		(at 187.96 107.95 180)
 		(fields_autoplaced yes)
@@ -4590,7 +4590,7 @@
 		)
 		(uuid "bc65c119-ab66-4d20-83b4-adda674433b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.9121 107.95 0)
+			(at 175.9035 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5260,7 +5260,7 @@
 			)
 		)
 	)
-	(global_label "TCL02 Pin 38"
+	(global_label "TCL02_38"
 		(shape input)
 		(at 256.54 45.72 180)
 		(fields_autoplaced yes)
@@ -5272,7 +5272,7 @@
 		)
 		(uuid "fca00bee-e142-441e-884b-81ede32401dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.4921 45.72 0)
+			(at 244.4835 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
