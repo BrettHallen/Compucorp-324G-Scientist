@@ -4,3 +4,5 @@
 *.pages
 *.numbers
 *.bak
+Test_Harness/fp-info-cache
+/Test_Harness/Test_Harness-backups
