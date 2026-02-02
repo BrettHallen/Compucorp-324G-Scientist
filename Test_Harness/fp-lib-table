@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Compucorp_Test_Harness")(type "KiCad")(uri "${KIPRJMOD}/Compucorp_Test_Harness.pretty")(options "")(descr ""))
+)
