@@ -38,7 +38,7 @@ I have confirmed that the calculator looks to run okay on 5VDC (i.e. USB) consum
 Information about the components used in the calculator.
 
 ## [Keyboard](/Keyboard)
-Information about the keyboard matrix & homebrew replacement keyboard with Cherry MX key switches - obviously not a direct replacement.
+Information about the keyboard matrix & homebrew replacement keyboard with Cherry MX key switches or 6mm tactile switches - obviously not a direct replacement.
 
 ## [KiCad](/KiCad)
 KiCad format schematics for the calculator, based on my 324G.<br>
