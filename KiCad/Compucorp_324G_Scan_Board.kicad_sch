@@ -8877,7 +8877,7 @@
 		)
 		(uuid "f98fa2a4-f15e-40ba-8f63-62a7bd1ebdd2")
 	)
-	(global_label "KB Col 8"
+	(global_label "KB_COL_8"
 		(shape input)
 		(at 120.65 105.41 180)
 		(fields_autoplaced yes)
@@ -8943,7 +8943,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 3"
+	(global_label "KB_ROW_3"
 		(shape input)
 		(at 120.65 69.85 180)
 		(fields_autoplaced yes)
@@ -8965,7 +8965,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 6"
+	(global_label "KB_COL_6"
 		(shape input)
 		(at 68.58 87.63 0)
 		(fields_autoplaced yes)
@@ -8987,7 +8987,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 6"
+	(global_label "KB_ROW_6"
 		(shape input)
 		(at 120.65 128.27 180)
 		(fields_autoplaced yes)
@@ -9009,7 +9009,7 @@
 			)
 		)
 	)
-	(global_label "KB GRAD"
+	(global_label "KB_GRAD"
 		(shape input)
 		(at 120.65 123.19 180)
 		(fields_autoplaced yes)
@@ -9097,7 +9097,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 1"
+	(global_label "KB_ROW_1"
 		(shape input)
 		(at 120.65 64.77 180)
 		(fields_autoplaced yes)
@@ -9141,7 +9141,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 3"
+	(global_label "KB_COL_3"
 		(shape input)
 		(at 120.65 82.55 180)
 		(fields_autoplaced yes)
@@ -9163,7 +9163,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 1"
+	(global_label "KB_COL_1"
 		(shape input)
 		(at 120.65 80.01 180)
 		(fields_autoplaced yes)
@@ -9207,7 +9207,7 @@
 			)
 		)
 	)
-	(global_label "KB LOAD"
+	(global_label "KB_LOAD"
 		(shape input)
 		(at 120.65 190.5 180)
 		(fields_autoplaced yes)
@@ -9229,7 +9229,7 @@
 			)
 		)
 	)
-	(global_label "KB GRAD"
+	(global_label "KB_GRAD"
 		(shape input)
 		(at 120.65 152.4 180)
 		(fields_autoplaced yes)
@@ -9273,7 +9273,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 1"
+	(global_label "KB_COL_1"
 		(shape input)
 		(at 68.58 97.79 0)
 		(fields_autoplaced yes)
@@ -9295,7 +9295,7 @@
 			)
 		)
 	)
-	(global_label "KB GRAD"
+	(global_label "KB_GRAD"
 		(shape input)
 		(at 143.51 200.66 0)
 		(fields_autoplaced yes)
@@ -9317,7 +9317,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 8"
+	(global_label "KB_ROW_8"
 		(shape input)
 		(at 120.65 133.35 180)
 		(fields_autoplaced yes)
@@ -9339,7 +9339,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 1"
+	(global_label "KB_ROW_1"
 		(shape input)
 		(at 43.18 110.49 180)
 		(fields_autoplaced yes)
@@ -9361,7 +9361,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 7"
+	(global_label "KB_COL_7"
 		(shape input)
 		(at 68.58 80.01 0)
 		(fields_autoplaced yes)
@@ -9383,7 +9383,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 3"
+	(global_label "KB_ROW_3"
 		(shape input)
 		(at 120.65 173.99 180)
 		(fields_autoplaced yes)
@@ -9405,7 +9405,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 5"
+	(global_label "KB_COL_5"
 		(shape input)
 		(at 120.65 85.09 180)
 		(fields_autoplaced yes)
@@ -9427,7 +9427,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 4"
+	(global_label "KB_COL_4"
 		(shape input)
 		(at 120.65 90.17 180)
 		(fields_autoplaced yes)
@@ -9515,7 +9515,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 9"
+	(global_label "KB_COL_9"
 		(shape input)
 		(at 68.58 74.93 0)
 		(fields_autoplaced yes)
@@ -9559,7 +9559,7 @@
 			)
 		)
 	)
-	(global_label "KB PROG 1"
+	(global_label "KB_PROG_1"
 		(shape input)
 		(at 120.65 77.47 180)
 		(fields_autoplaced yes)
@@ -9603,7 +9603,7 @@
 			)
 		)
 	)
-	(global_label "KB RUN"
+	(global_label "KB_RUN_{326}"
 		(shape input)
 		(at 120.65 181.61 180)
 		(fields_autoplaced yes)
@@ -9615,7 +9615,7 @@
 		)
 		(uuid "736eae26-4581-4f38-aeb8-ee55c180c224")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.2262 181.61 0)
+			(at 107.2726 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9625,7 +9625,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 9"
+	(global_label "KB_COL_9"
 		(shape input)
 		(at 120.65 107.95 180)
 		(fields_autoplaced yes)
@@ -9647,7 +9647,7 @@
 			)
 		)
 	)
-	(global_label "KB FED"
+	(global_label "KB_FED"
 		(shape input)
 		(at 120.65 115.57 180)
 		(fields_autoplaced yes)
@@ -9691,7 +9691,7 @@
 			)
 		)
 	)
-	(global_label "KB FED"
+	(global_label "KB_FED"
 		(shape input)
 		(at 120.65 157.48 180)
 		(fields_autoplaced yes)
@@ -9735,7 +9735,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 5"
+	(global_label "KB_COL_5"
 		(shape input)
 		(at 68.58 95.25 0)
 		(fields_autoplaced yes)
@@ -9779,7 +9779,7 @@
 			)
 		)
 	)
-	(global_label "KB LOAD"
+	(global_label "KB_LOAD"
 		(shape input)
 		(at 120.65 118.11 180)
 		(fields_autoplaced yes)
@@ -9801,7 +9801,7 @@
 			)
 		)
 	)
-	(global_label "KB RUN"
+	(global_label "KB_RUN"
 		(shape input)
 		(at 116.84 200.66 180)
 		(fields_autoplaced yes)
@@ -9845,7 +9845,7 @@
 			)
 		)
 	)
-	(global_label "KB RUN"
+	(global_label "KB_RUN"
 		(shape input)
 		(at 120.65 74.93 180)
 		(fields_autoplaced yes)
@@ -9867,7 +9867,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 8"
+	(global_label "KB_COL_8"
 		(shape input)
 		(at 68.58 77.47 0)
 		(fields_autoplaced yes)
@@ -9889,7 +9889,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 5"
+	(global_label "KB_ROW_5"
 		(shape input)
 		(at 120.65 125.73 180)
 		(fields_autoplaced yes)
@@ -9911,7 +9911,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 2"
+	(global_label "KB_ROW_2"
 		(shape input)
 		(at 120.65 67.31 180)
 		(fields_autoplaced yes)
@@ -9955,7 +9955,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 2"
+	(global_label "KB_ROW_2"
 		(shape input)
 		(at 43.18 105.41 180)
 		(fields_autoplaced yes)
@@ -9977,7 +9977,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 2"
+	(global_label "KB_COL_2"
 		(shape input)
 		(at 120.65 92.71 180)
 		(fields_autoplaced yes)
@@ -9999,7 +9999,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 4"
+	(global_label "KB_ROW_4"
 		(shape input)
 		(at 120.65 177.8 180)
 		(fields_autoplaced yes)
@@ -10021,7 +10021,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 5"
+	(global_label "KB_ROW_5"
 		(shape input)
 		(at 120.65 161.29 180)
 		(fields_autoplaced yes)
@@ -10087,7 +10087,7 @@
 			)
 		)
 	)
-	(global_label "KB PROG 1"
+	(global_label "KB_PROG 1"
 		(shape input)
 		(at 120.65 185.42 180)
 		(fields_autoplaced yes)
@@ -10175,7 +10175,7 @@
 			)
 		)
 	)
-	(global_label "KB RUN"
+	(global_label "KB_RUN_{326}"
 		(shape input)
 		(at 120.65 120.65 180)
 		(fields_autoplaced yes)
@@ -10187,7 +10187,7 @@
 		)
 		(uuid "d2ba89e5-c022-4b13-81e6-1840d824f4b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.2262 120.65 0)
+			(at 107.2726 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10219,7 +10219,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 8"
+	(global_label "KB_ROW_8"
 		(shape input)
 		(at 120.65 148.59 180)
 		(fields_autoplaced yes)
@@ -10241,7 +10241,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 7"
+	(global_label "KB_COL_7"
 		(shape input)
 		(at 120.65 102.87 180)
 		(fields_autoplaced yes)
@@ -10285,7 +10285,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 7"
+	(global_label "KB_ROW_7"
 		(shape input)
 		(at 116.84 204.47 180)
 		(fields_autoplaced yes)
@@ -10307,7 +10307,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 6"
+	(global_label "KB_ROW_6"
 		(shape input)
 		(at 120.65 194.31 180)
 		(fields_autoplaced yes)
@@ -10329,7 +10329,7 @@
 			)
 		)
 	)
-	(global_label "KB Col 6"
+	(global_label "KB_COL_6"
 		(shape input)
 		(at 120.65 95.25 180)
 		(fields_autoplaced yes)
@@ -10351,7 +10351,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 7"
+	(global_label "KB_ROW_7"
 		(shape input)
 		(at 120.65 130.81 180)
 		(fields_autoplaced yes)
@@ -10395,7 +10395,7 @@
 			)
 		)
 	)
-	(global_label "KB Row 4"
+	(global_label "KB_ROW_4"
 		(shape input)
 		(at 120.65 72.39 180)
 		(fields_autoplaced yes)
