@@ -9363,28 +9363,6 @@
 			)
 		)
 	)
-	(global_label "TCL07_24"
-		(shape input)
-		(at 375.92 107.95 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dc4d9008-4698-49fd-a089-8328f94708c5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 387.9765 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "IB_05"
 		(shape input)
 		(at 43.18 64.77 180)
