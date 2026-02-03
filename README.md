@@ -64,9 +64,6 @@ The particular model is the 16 digit BR 16252 which was used in other devices su
 
 On the 324G, at least, only 15 digits are really used (I think).  The 16th (first on left) is only used for a negative sign (?).<br>
 
-## [Scan Board](/Scan_Board)
-Additional information about the Scan board.
-
 ## [Schematics](/Schematics)
 Schematics I've generated from KiCad ... I doubt I'll ever find originals.<br>
 
