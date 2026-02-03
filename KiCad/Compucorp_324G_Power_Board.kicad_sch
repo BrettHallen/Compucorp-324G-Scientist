@@ -1712,6 +1712,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "When IN+ = +6VDC, the +5V rail is about +5.8V"
+		(exclude_from_sim no)
+		(at 46.228 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5037fe53-91aa-4de0-af74-3767f6bf1a6e")
+	)
 	(text "Black\nRed\nGrey"
 		(exclude_from_sim no)
 		(at 30.226 36.322 0)
@@ -2031,6 +2041,28 @@
 			)
 		)
 	)
+	(global_label "IB_24"
+		(shape input)
+		(at 243.84 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2cccdae1-f4a5-462a-9883-c95b3a3ee143")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.5934 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "+7.5V"
 		(shape input)
 		(at 157.48 124.46 180)
@@ -2163,7 +2195,7 @@
 			)
 		)
 	)
-	(global_label "+7.5V"
+	(global_label "+8V"
 		(shape input)
 		(at 243.84 101.6 180)
 		(fields_autoplaced yes)
@@ -2175,7 +2207,29 @@
 		)
 		(uuid "a65ce984-7316-43fa-a9c2-3dfc5e4b85d6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.17 101.6 0)
+			(at 236.9843 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "?"
+		(shape input)
+		(at 41.91 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b43669c7-5571-46a6-954d-e6a9ea0e7907")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 37.8362 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2207,6 +2261,50 @@
 			)
 		)
 	)
+	(global_label "IB_32"
+		(shape input)
+		(at 243.84 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cff1f1df-6dc4-4957-bc8d-a93f49cee24f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.5934 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IB_21"
+		(shape input)
+		(at 243.84 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "da044636-3089-4dc1-8dc7-fcc55f3c1c0f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.5934 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RAM_RW"
 		(shape input)
 		(at 243.84 96.52 180)
@@ -2220,6 +2318,28 @@
 		(uuid "dac0b1c5-a921-418d-a3ce-f995975f77c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 233.3558 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "-155V"
+		(shape input)
+		(at 41.91 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e750b681-eb88-4cd8-8835-cdc232aab97c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 32.6353 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
