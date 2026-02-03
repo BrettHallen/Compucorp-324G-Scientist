@@ -9,3 +9,6 @@ Test_Harness/fp-info-cache
 *.lck
 /Keyboard/Compucorp_Keyboard-backups
 Keyboard/fp-info-cache
+/Keyboard/Cherry_MX/Compucorp_Keyboard-backups
+Keyboard/Cherry_MX/fp-info-cache
+Keyboard/Tactile_6mm/fp-info-cache
