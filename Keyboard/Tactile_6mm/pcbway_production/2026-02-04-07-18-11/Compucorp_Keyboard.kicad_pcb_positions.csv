@@ -1,0 +1,48 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+83.94,-51.8,90.0,top,J1,,,PinHeader_1x14_P2.54mm_Vertical,Keyboard Left,tht
+127.6,-52.2,90.0,top,J2,,,PinHeader_1x14_P2.54mm_Vertical,Keyboard Right,tht
+138.3,-95.5,0.0,top,SW1,,,SW_PUSH_6mm,e^x 10^x,tht
+138.3,-77.5,0.0,top,SW10,,,SW_PUSH_6mm,2nd FUNC,tht
+116.3,-86.5,0.0,top,SW11,,,SW_PUSH_6mm,ARCTAN,tht
+138.3,-135.0,0.0,top,SW12,,,SW_PUSH_6mm,a^x,tht
+106.3,-116.5,0.0,top,SW13,,,SW_PUSH_6mm,5,tht
+84.3,-95.5,0.0,top,SW14,,,SW_PUSH_6mm,EXCHn,tht
+116.3,-65.5,0.0,top,SW15,,,SW_PUSH_6mm,START/STOP,tht
+106.3,-86.5,0.0,top,SW16,,,SW_PUSH_6mm,"x,y → Θ,r",tht
+138.3,-116.5,0.0,top,SW17,,,SW_PUSH_6mm,DIV,tht
+84.3,-125.5,0.0,top,SW18,,,SW_PUSH_6mm,EXP,tht
+96.3,-116.5,0.0,top,SW19,,,SW_PUSH_6mm,4,tht
+138.3,-107.5,0.0,top,SW2,,,SW_PUSH_6mm,),tht
+84.3,-116.5,0.0,top,SW20,,,SW_PUSH_6mm,RCLn,tht
+84.3,-135.0,0.0,top,SW21,,,SW_PUSH_6mm,CLEAR ENTRY,tht
+126.3,-77.5,0.0,top,SW22,,,SW_PUSH_6mm,º → R → º,tht
+96.3,-86.5,0.0,top,SW23,,,SW_PUSH_6mm,ARCSIN ARCCOS,tht
+138.3,-125.5,0.0,top,SW24,,,SW_PUSH_6mm,MUL,tht
+116.3,-135.0,0.0,top,SW25,,,SW_PUSH_6mm,CHG SIGN,tht
+116.3,-126.0,0.0,top,SW26,,,SW_PUSH_6mm,3,tht
+84.3,-107.5,0.0,top,SW27,,,SW_PUSH_6mm,STn,tht
+84.3,-86.5,0.0,top,SW28,,,SW_PUSH_6mm,RESET,tht
+116.3,-77.5,0.0,top,SW29,,,SW_PUSH_6mm,TAN,tht
+126.3,-86.5,0.0,top,SW3,,,SW_PUSH_6mm,DEC → D.MS,tht
+116.3,-95.5,0.0,top,SW30,,,SW_PUSH_6mm,INV,tht
+128.3,-116.5,0.0,top,SW31,,,SW_PUSH_6mm,MINUS,tht
+106.3,-135.0,0.0,top,SW32,,,SW_PUSH_6mm,DP,tht
+106.3,-126.0,0.0,top,SW33,,,SW_PUSH_6mm,2,tht
+106.3,-77.5,0.0,top,SW34,,,SW_PUSH_6mm,"Θ,r → x,y",tht
+106.3,-95.5,0.0,top,SW35,,,SW_PUSH_6mm,SQRT,tht
+128.3,-125.5,0.0,top,SW36,,,SW_PUSH_6mm,PLUS,tht
+116.3,-107.5,0.0,top,SW37,,,SW_PUSH_6mm,9,tht
+96.3,-126.0,0.0,top,SW38,,,SW_PUSH_6mm,1,tht
+96.3,-77.5,0.0,top,SW39,,,SW_PUSH_6mm,SIN COS,tht
+96.3,-107.5,0.0,top,SW4,,,SW_PUSH_6mm,7,tht
+96.3,-95.5,0.0,top,SW40,,,SW_PUSH_6mm,PI,tht
+128.3,-135.0,0.0,top,SW41,,,SW_PUSH_6mm,EQUALS,tht
+106.3,-107.5,0.0,top,SW42,,,SW_PUSH_6mm,8,tht
+96.3,-135.0,0.0,top,SW43,,,SW_PUSH_6mm,0,tht
+87.7,-67.86,90.0,top,SW44,,,SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,RUN/STEP/LOAD,tht
+152.08,-90.8,90.0,top,SW49,,,SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm,SW_DIP_x04,tht
+138.3,-86.5,0.0,top,SW5,,,SW_PUSH_6mm,Ln LOG,tht
+128.3,-107.5,0.0,top,SW6,,,SW_PUSH_6mm,(,tht
+126.3,-95.5,0.0,top,SW7,,,SW_PUSH_6mm,D.MS → DEC,tht
+116.3,-116.5,0.0,top,SW8,,,SW_PUSH_6mm,6,tht
+84.3,-77.5,0.0,top,SW9,,,SW_PUSH_6mm,SET DP,tht
