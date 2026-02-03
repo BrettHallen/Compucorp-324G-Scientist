@@ -7096,6 +7096,16 @@
 		(uuid "6ba8642b-1ae4-41cf-ac08-d457f8c2194c")
 	)
 	(label "TCL07_22"
+		(at 104.14 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "738b089e-a55a-4077-a151-93d2792f0244")
+	)
+	(label "TCL07_22"
 		(at 99.06 106.68 0)
 		(effects
 			(font
@@ -9751,28 +9761,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TCL07_22"
-		(shape input)
-		(at 104.14 36.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f3b90725-fc7c-4a23-91a4-14a37ad8841e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.1965 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
