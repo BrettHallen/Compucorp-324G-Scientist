@@ -7129,7 +7129,7 @@
 		)
 		(uuid "80fcf717-a8a7-4df9-9400-3541ca28adfe")
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 157.48 60.96 0)
 		(fields_autoplaced yes)
@@ -7151,7 +7151,7 @@
 			)
 		)
 	)
-	(global_label "IB_29"
+	(global_label "MI2"
 		(shape input)
 		(at 370.84 193.04 180)
 		(fields_autoplaced yes)
@@ -7173,7 +7173,7 @@
 			)
 		)
 	)
-	(global_label "IB_07"
+	(global_label "MO2"
 		(shape input)
 		(at 132.08 104.14 180)
 		(fields_autoplaced yes)
@@ -7261,7 +7261,7 @@
 			)
 		)
 	)
-	(global_label "IB_05"
+	(global_label "C08P"
 		(shape input)
 		(at 208.28 101.6 180)
 		(fields_autoplaced yes)
@@ -7283,7 +7283,7 @@
 			)
 		)
 	)
-	(global_label "IB_07"
+	(global_label "MO2"
 		(shape input)
 		(at 44.45 177.8 180)
 		(fields_autoplaced yes)
@@ -7305,7 +7305,7 @@
 			)
 		)
 	)
-	(global_label "IB_20"
+	(global_label "PW0N"
 		(shape input)
 		(at 370.84 172.72 180)
 		(fields_autoplaced yes)
@@ -7327,7 +7327,7 @@
 			)
 		)
 	)
-	(global_label "IB_10"
+	(global_label "MO4"
 		(shape input)
 		(at 383.54 147.32 0)
 		(fields_autoplaced yes)
@@ -7349,7 +7349,7 @@
 			)
 		)
 	)
-	(global_label "IB_05"
+	(global_label "C08P"
 		(shape input)
 		(at 90.17 63.5 0)
 		(fields_autoplaced yes)
@@ -7371,7 +7371,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "V_{SS}"
 		(shape input)
 		(at 132.08 60.96 180)
 		(fields_autoplaced yes)
@@ -7437,7 +7437,7 @@
 			)
 		)
 	)
-	(global_label "IB_15"
+	(global_label "WRIT"
 		(shape input)
 		(at 64.77 86.36 180)
 		(fields_autoplaced yes)
@@ -7459,7 +7459,7 @@
 			)
 		)
 	)
-	(global_label "IB_30"
+	(global_label "MI4"
 		(shape input)
 		(at 383.54 198.12 0)
 		(fields_autoplaced yes)
@@ -7547,7 +7547,7 @@
 			)
 		)
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 316.23 63.5 0)
 		(fields_autoplaced yes)
@@ -7591,7 +7591,7 @@
 			)
 		)
 	)
-	(global_label "IB_31"
+	(global_label "MI8"
 		(shape input)
 		(at 370.84 198.12 180)
 		(fields_autoplaced yes)
@@ -7657,7 +7657,7 @@
 			)
 		)
 	)
-	(global_label "IB_01"
+	(global_label "CTRL"
 		(shape input)
 		(at 316.23 58.42 0)
 		(fields_autoplaced yes)
@@ -7811,7 +7811,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "V_{SS}"
 		(shape input)
 		(at 208.28 58.42 180)
 		(fields_autoplaced yes)
@@ -7833,7 +7833,7 @@
 			)
 		)
 	)
-	(global_label "IB_05"
+	(global_label "C08P"
 		(shape input)
 		(at 157.48 104.14 0)
 		(fields_autoplaced yes)
@@ -7855,7 +7855,7 @@
 			)
 		)
 	)
-	(global_label "IB_01"
+	(global_label "CTRL"
 		(shape input)
 		(at 90.17 101.6 0)
 		(fields_autoplaced yes)
@@ -7877,7 +7877,7 @@
 			)
 		)
 	)
-	(global_label "IB_06"
+	(global_label "C16P"
 		(shape input)
 		(at 157.48 106.68 0)
 		(fields_autoplaced yes)
@@ -7899,7 +7899,7 @@
 			)
 		)
 	)
-	(global_label "IB_01"
+	(global_label "CTRL"
 		(shape input)
 		(at 383.54 124.46 0)
 		(fields_autoplaced yes)
@@ -7921,7 +7921,7 @@
 			)
 		)
 	)
-	(global_label "-25V"
+	(global_label "V_{GG}"
 		(shape input)
 		(at 383.54 213.36 0)
 		(fields_autoplaced yes)
@@ -7943,7 +7943,7 @@
 			)
 		)
 	)
-	(global_label "IB_01"
+	(global_label "CTRL"
 		(shape input)
 		(at 370.84 124.46 180)
 		(fields_autoplaced yes)
@@ -7987,7 +7987,7 @@
 			)
 		)
 	)
-	(global_label "IB_09"
+	(global_label "MO8"
 		(shape input)
 		(at 383.54 144.78 0)
 		(fields_autoplaced yes)
@@ -8009,7 +8009,7 @@
 			)
 		)
 	)
-	(global_label "IB_28"
+	(global_label "MI1"
 		(shape input)
 		(at 383.54 193.04 0)
 		(fields_autoplaced yes)
@@ -8031,7 +8031,7 @@
 			)
 		)
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 383.54 203.2 0)
 		(fields_autoplaced yes)
@@ -8075,7 +8075,7 @@
 			)
 		)
 	)
-	(global_label "IB_05"
+	(global_label "C08P"
 		(shape input)
 		(at 370.84 134.62 180)
 		(fields_autoplaced yes)
@@ -8119,7 +8119,7 @@
 			)
 		)
 	)
-	(global_label "IB_08"
+	(global_label "MO1"
 		(shape input)
 		(at 383.54 142.24 0)
 		(fields_autoplaced yes)
@@ -8141,7 +8141,7 @@
 			)
 		)
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 44.45 152.4 180)
 		(fields_autoplaced yes)
@@ -8185,7 +8185,7 @@
 			)
 		)
 	)
-	(global_label "-10V"
+	(global_label "V_{DD}"
 		(shape input)
 		(at 383.54 210.82 0)
 		(fields_autoplaced yes)
@@ -8229,7 +8229,7 @@
 			)
 		)
 	)
-	(global_label "IB_05"
+	(global_label "C08P"
 		(shape input)
 		(at 290.83 101.6 180)
 		(fields_autoplaced yes)
@@ -8273,7 +8273,7 @@
 			)
 		)
 	)
-	(global_label "IB_29"
+	(global_label "MI2"
 		(shape input)
 		(at 383.54 195.58 0)
 		(fields_autoplaced yes)
@@ -8339,7 +8339,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "V_{SS}"
 		(shape input)
 		(at 383.54 208.28 0)
 		(fields_autoplaced yes)
@@ -8405,7 +8405,7 @@
 			)
 		)
 	)
-	(global_label "IB_06"
+	(global_label "C16P"
 		(shape input)
 		(at 370.84 137.16 180)
 		(fields_autoplaced yes)
@@ -8427,7 +8427,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "V_{SS}"
 		(shape input)
 		(at 370.84 208.28 180)
 		(fields_autoplaced yes)
@@ -8493,7 +8493,7 @@
 			)
 		)
 	)
-	(global_label "IB_09"
+	(global_label "MO8"
 		(shape input)
 		(at 44.45 172.72 180)
 		(fields_autoplaced yes)
@@ -8515,7 +8515,7 @@
 			)
 		)
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 208.28 76.2 180)
 		(fields_autoplaced yes)
@@ -8559,7 +8559,7 @@
 			)
 		)
 	)
-	(global_label "IB_08"
+	(global_label "MO1"
 		(shape input)
 		(at 64.77 81.28 180)
 		(fields_autoplaced yes)
@@ -8603,7 +8603,7 @@
 			)
 		)
 	)
-	(global_label "IB_08"
+	(global_label "MO1"
 		(shape input)
 		(at 132.08 101.6 180)
 		(fields_autoplaced yes)
@@ -8647,7 +8647,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "V_{SS}"
 		(shape input)
 		(at 64.77 60.96 180)
 		(fields_autoplaced yes)
@@ -8669,7 +8669,7 @@
 			)
 		)
 	)
-	(global_label "IB_09"
+	(global_label "MO8"
 		(shape input)
 		(at 316.23 96.52 0)
 		(fields_autoplaced yes)
@@ -8735,7 +8735,7 @@
 			)
 		)
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 370.84 203.2 180)
 		(fields_autoplaced yes)
@@ -8779,7 +8779,7 @@
 			)
 		)
 	)
-	(global_label "IB_08"
+	(global_label "MO1"
 		(shape input)
 		(at 370.84 142.24 180)
 		(fields_autoplaced yes)
@@ -8801,7 +8801,7 @@
 			)
 		)
 	)
-	(global_label "IB_33"
+	(global_label "Φ2"
 		(shape input)
 		(at 44.45 149.86 180)
 		(fields_autoplaced yes)
@@ -8823,7 +8823,7 @@
 			)
 		)
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 90.17 76.2 0)
 		(fields_autoplaced yes)
@@ -8867,7 +8867,7 @@
 			)
 		)
 	)
-	(global_label "IB_06"
+	(global_label "C16P"
 		(shape input)
 		(at 383.54 137.16 0)
 		(fields_autoplaced yes)
@@ -8889,7 +8889,7 @@
 			)
 		)
 	)
-	(global_label "IB_10"
+	(global_label "MO4"
 		(shape input)
 		(at 132.08 106.68 180)
 		(fields_autoplaced yes)
@@ -8911,7 +8911,7 @@
 			)
 		)
 	)
-	(global_label "IB_09"
+	(global_label "MO8"
 		(shape input)
 		(at 132.08 109.22 180)
 		(fields_autoplaced yes)
@@ -8955,7 +8955,7 @@
 			)
 		)
 	)
-	(global_label "IB_07"
+	(global_label "MO2"
 		(shape input)
 		(at 64.77 83.82 180)
 		(fields_autoplaced yes)
@@ -8977,7 +8977,7 @@
 			)
 		)
 	)
-	(global_label "IB_15"
+	(global_label "WRIT"
 		(shape input)
 		(at 383.54 160.02 0)
 		(fields_autoplaced yes)
@@ -9021,7 +9021,7 @@
 			)
 		)
 	)
-	(global_label "IB_15"
+	(global_label "WRIT"
 		(shape input)
 		(at 370.84 160.02 180)
 		(fields_autoplaced yes)
@@ -9043,7 +9043,7 @@
 			)
 		)
 	)
-	(global_label "IB_06"
+	(global_label "C16P"
 		(shape input)
 		(at 208.28 83.82 180)
 		(fields_autoplaced yes)
@@ -9087,7 +9087,7 @@
 			)
 		)
 	)
-	(global_label "-25V"
+	(global_label "V_{GG}"
 		(shape input)
 		(at 370.84 213.36 180)
 		(fields_autoplaced yes)
@@ -9131,7 +9131,7 @@
 			)
 		)
 	)
-	(global_label "IB_07"
+	(global_label "MO2"
 		(shape input)
 		(at 383.54 139.7 0)
 		(fields_autoplaced yes)
@@ -9153,7 +9153,7 @@
 			)
 		)
 	)
-	(global_label "IB_31"
+	(global_label "MI8"
 		(shape input)
 		(at 383.54 200.66 0)
 		(fields_autoplaced yes)
@@ -9175,7 +9175,7 @@
 			)
 		)
 	)
-	(global_label "IB_08"
+	(global_label "MO1"
 		(shape input)
 		(at 316.23 99.06 0)
 		(fields_autoplaced yes)
@@ -9197,7 +9197,7 @@
 			)
 		)
 	)
-	(global_label "IB_10"
+	(global_label "MO4"
 		(shape input)
 		(at 370.84 147.32 180)
 		(fields_autoplaced yes)
@@ -9219,7 +9219,7 @@
 			)
 		)
 	)
-	(global_label "IB_28"
+	(global_label "MI1"
 		(shape input)
 		(at 370.84 190.5 180)
 		(fields_autoplaced yes)
@@ -9241,7 +9241,7 @@
 			)
 		)
 	)
-	(global_label "IB_10"
+	(global_label "MO4"
 		(shape input)
 		(at 44.45 170.18 180)
 		(fields_autoplaced yes)
@@ -9307,7 +9307,7 @@
 			)
 		)
 	)
-	(global_label "IB_07"
+	(global_label "MO2"
 		(shape input)
 		(at 316.23 101.6 0)
 		(fields_autoplaced yes)
@@ -9329,7 +9329,7 @@
 			)
 		)
 	)
-	(global_label "IB_05"
+	(global_label "C08P"
 		(shape input)
 		(at 208.28 86.36 180)
 		(fields_autoplaced yes)
@@ -9351,7 +9351,7 @@
 			)
 		)
 	)
-	(global_label "IB_01"
+	(global_label "CTRL"
 		(shape input)
 		(at 80.01 36.83 0)
 		(fields_autoplaced yes)
@@ -9417,7 +9417,7 @@
 			)
 		)
 	)
-	(global_label "IB_05"
+	(global_label "C08P"
 		(shape input)
 		(at 383.54 134.62 0)
 		(fields_autoplaced yes)
@@ -9439,7 +9439,7 @@
 			)
 		)
 	)
-	(global_label "IB_08"
+	(global_label "MO1"
 		(shape input)
 		(at 44.45 175.26 180)
 		(fields_autoplaced yes)
@@ -9483,7 +9483,7 @@
 			)
 		)
 	)
-	(global_label "IB_33"
+	(global_label "Φ2"
 		(shape input)
 		(at 370.84 205.74 180)
 		(fields_autoplaced yes)
@@ -9505,7 +9505,7 @@
 			)
 		)
 	)
-	(global_label "IB_20"
+	(global_label "PW0N"
 		(shape input)
 		(at 90.17 104.14 0)
 		(fields_autoplaced yes)
@@ -9549,7 +9549,7 @@
 			)
 		)
 	)
-	(global_label "IB_32"
+	(global_label "Φ1"
 		(shape input)
 		(at 370.84 200.66 180)
 		(fields_autoplaced yes)
@@ -9571,7 +9571,7 @@
 			)
 		)
 	)
-	(global_label "IB_09"
+	(global_label "MO8"
 		(shape input)
 		(at 370.84 144.78 180)
 		(fields_autoplaced yes)
@@ -9615,7 +9615,7 @@
 			)
 		)
 	)
-	(global_label "IB_06"
+	(global_label "C16P"
 		(shape input)
 		(at 290.83 104.14 180)
 		(fields_autoplaced yes)
@@ -9659,7 +9659,7 @@
 			)
 		)
 	)
-	(global_label "IB_24"
+	(global_label "~{INL2}"
 		(shape input)
 		(at 370.84 182.88 180)
 		(fields_autoplaced yes)
@@ -9681,7 +9681,7 @@
 			)
 		)
 	)
-	(global_label "IB_33"
+	(global_label "Φ2"
 		(shape input)
 		(at 383.54 205.74 0)
 		(fields_autoplaced yes)
@@ -9703,7 +9703,7 @@
 			)
 		)
 	)
-	(global_label "IB_01"
+	(global_label "CTRL"
 		(shape input)
 		(at 233.68 76.2 0)
 		(fields_autoplaced yes)
@@ -9747,7 +9747,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "V_{SS}"
 		(shape input)
 		(at 290.83 58.42 180)
 		(fields_autoplaced yes)
@@ -9835,7 +9835,7 @@
 			)
 		)
 	)
-	(global_label "-10V"
+	(global_label "V_{DD}"
 		(shape input)
 		(at 370.84 210.82 180)
 		(fields_autoplaced yes)
@@ -9857,7 +9857,7 @@
 			)
 		)
 	)
-	(global_label "IB_07"
+	(global_label "MO2"
 		(shape input)
 		(at 370.84 139.7 180)
 		(fields_autoplaced yes)
@@ -9901,7 +9901,7 @@
 			)
 		)
 	)
-	(global_label "+5V"
+	(global_label "V_{SS}"
 		(shape input)
 		(at 104.14 25.4 0)
 		(fields_autoplaced yes)
@@ -9923,7 +9923,7 @@
 			)
 		)
 	)
-	(global_label "IB_10"
+	(global_label "MO4"
 		(shape input)
 		(at 316.23 93.98 0)
 		(fields_autoplaced yes)
@@ -9967,7 +9967,7 @@
 			)
 		)
 	)
-	(global_label "IB_30"
+	(global_label "MI4"
 		(shape input)
 		(at 370.84 195.58 180)
 		(fields_autoplaced yes)
@@ -10033,7 +10033,7 @@
 			)
 		)
 	)
-	(global_label "IB_06"
+	(global_label "C16P"
 		(shape input)
 		(at 90.17 66.04 0)
 		(fields_autoplaced yes)
@@ -10055,7 +10055,7 @@
 			)
 		)
 	)
-	(global_label "IB_24"
+	(global_label "~{INL2}"
 		(shape input)
 		(at 383.54 182.88 0)
 		(fields_autoplaced yes)
