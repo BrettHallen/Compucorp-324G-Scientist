@@ -1,9 +1,14 @@
 # Compucorp 324G Component List
 
 ## ICs
+Note:
+- ACL = American Microsystems, Inc.
+- TCL = Texas Instruments, Inc.
+- The ACL and TCL chips are not interchangeable due to different pin numbering indicated by Axx/Txx pin numbers
+
 | IC       |Pins   | Code   | Location        | Purpose                     |
 |----------|-------|--------|-----------------|-----------------------------|
-| TMC 1871 |DIP-40 | TCL 03 | Memory Board    | Memory addressing           |
+| TMC1871  |DIP-40 | TCL03  | Memory Board    | Memory addressing           |
 | C2102    |DIP-16 |        | Memory Board    | 1k x 1-bit SRAM             |
 | 8KR218   |DIP-28 |        | Memory Board    | 8kbit ROM                   |
 | 8KR029   |DIP-28 |        | Memory Board    | 8kbit ROM                   |
@@ -11,13 +16,13 @@
 | 93L00    |DIP-16 |        | Memory Board    | 4-bit shift register        |
 | SN74L75N |DIP-16 |        | Memory Board    | 4-bit bi-stable latch       |
 | 2N4403   |3      |        | Memory Board    | PNP BJT on data bus         |
-| TMC 1872 |DIP-40 | TCL 07 | Processor Board | Adder control               |
-| TMC 1866 |DIP-40 | TCL 06 | Processor Board | Adder/entry                 |
-| TMC 1867 |DIP-40 | TCL 05 | Processor Board | Index                       |
-| TMC 1870 |DIP-40 | TCL 04 | Processor Board | Instruction control         |
-| TMC 1869 |DIP-40 | TCL 02 | Scan Board      | Keyboard scanner            |
-| TMC 1884 |DIP-40 | TCL 08 | Scan Board      | Display controller          |
-| UHP 480  |DIP-14 |        | Scan Board      |                             |
+| TMC1872  |DIP-40 | TCL07  | Processor Board | Adder control               |
+| TMC1866  |DIP-40 | TCL06  | Processor Board | Adder/entry                 |
+| TMC1867  |DIP-40 | TCL05  | Processor Board | Index                       |
+| TMC1870  |DIP-40 | TCL04  | Processor Board | Instruction control         |
+| TMC1869  |DIP-40 | TCL02  | Scan Board      | Keyboard scanner            |
+| TMC1884  |DIP-40 | TCL08  | Scan Board      | Display controller          |
+| UHP480   |DIP-14 |        | Scan Board      |                             |
 | 2N5400   |TO-92  |        | Scan Board      | PNP BJT for anodes?         |
 | 2N4401   |TO-92  |        | Power Board     | NPN BJT                     |
 | 2N5193   |TO-126 |        | Power Board     | PNP power BJT               |
