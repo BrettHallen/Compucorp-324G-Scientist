@@ -3,20 +3,20 @@
 ## ICs
 | IC       |Pins   | Code   | Location        | Purpose                     |
 |----------|-------|--------|-----------------|-----------------------------|
-| TMC 1871 |DIP-40 | TCL 03 | Memory Board    |                             |
+| TMC 1871 |DIP-40 | TCL 03 | Memory Board    | Memory addressing           |
 | C2102    |DIP-16 |        | Memory Board    | 1k x 1-bit SRAM             |
-| 8KR218   |DIP-28 |        | Memory Board    | ROM                         |
-| 8KR029   |DIP-28 |        | Memory Board    | ROM                         |
-| 9KR11A   |DIP-28 |        | Memory Board    | ROM                         |
+| 8KR218   |DIP-28 |        | Memory Board    | 8kbit ROM                   |
+| 8KR029   |DIP-28 |        | Memory Board    | 8kbit ROM                   |
+| 8KR11A   |DIP-28 |        | Memory Board    | 8kbit ROM                   |
 | 93L00    |DIP-16 |        | Memory Board    | 4-bit shift register        |
 | SN74L75N |DIP-16 |        | Memory Board    | 4-bit bi-stable latch       |
 | 2N4403   |3      |        | Memory Board    | PNP BJT on data bus         |
-| TMC 1872 |DIP-40 | TCL 07 | Processor Board |                             |
-| TMC 1866 |DIP-40 | TCL 06 | Processor Board |                             |
-| TMC 1867 |DIP-40 | TCL 05 | Processor Board |                             |
-| TMC 1870 |DIP-40 | TCL 04 | Processor Board |                             |
-| TMC 1869 |DIP-40 | TCL 02 | Scan Board      | Keyboard scan?              |
-| TMC 1884 |DIP-40 | TCL 08 | Scan Board      | Display scan/multiplexing?  |
+| TMC 1872 |DIP-40 | TCL 07 | Processor Board | Adder control               |
+| TMC 1866 |DIP-40 | TCL 06 | Processor Board | Adder/entry                 |
+| TMC 1867 |DIP-40 | TCL 05 | Processor Board | Index                       |
+| TMC 1870 |DIP-40 | TCL 04 | Processor Board | Instruction control         |
+| TMC 1869 |DIP-40 | TCL 02 | Scan Board      | Keyboard scanner            |
+| TMC 1884 |DIP-40 | TCL 08 | Scan Board      | Display controller          |
 | UHP 480  |DIP-14 |        | Scan Board      |                             |
 | 2N5400   |TO-92  |        | Scan Board      | PNP BJT for anodes?         |
 | 2N4401   |TO-92  |        | Power Board     | NPN BJT                     |
