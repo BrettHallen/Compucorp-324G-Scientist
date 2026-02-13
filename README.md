@@ -26,8 +26,9 @@ The "G" in the model name [indicates](https://www.johnwolff.id.au/calculators/Co
 The calculator is also referred to as the "300 Series Beta Computer".<br>
 
 ## Videos
-- [Part 1 (Power On & Disassembly)](https://youtu.be/NjJ8rrLbnn0)
-- [Part 2 (Display Repair & USB Power)](https://youtu.be/J1Y7ZJ_NeyI)
+- [Part 1: Power On & Disassembly](https://youtu.be/NjJ8rrLbnn0)
+- [Part 2: Display Repair & USB Power](https://youtu.be/J1Y7ZJ_NeyI)
+- [Part 3: Programming Lunar Lander](https://youtu.be/Psg4YwRlDQM)
 
 ## Power
 My 324G came with a 240VAC (Australian) power supply that output an unregulated 11VDC (no load).<br>
@@ -44,6 +45,9 @@ These are the voltages used in the calculator - all voltages except V<sub>SS</su
 - GND: V<sub>SS</sub> - 5V ("logic 0" level)
 - V<sub>BIAS</sub>: -60V (display)
 - V<sub>KK</sub>: -120V (display)
+
+## [Principles Of Operation](/Principles_Of_Operation)
+Making the text from the Service Manual more easily searchable.
 
 ## [Component List](/Components)
 Information about the components used in the calculator.
