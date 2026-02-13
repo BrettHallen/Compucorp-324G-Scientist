@@ -19,6 +19,22 @@ The slide switches are comprised partly of contacts on the keyboard printed circ
 
 Table 2-1 tabulates the keyswitch functions of the computer. Table 2-2 does the same for the slide switches, and Table 2-3 tabulates the keyswitch functions of the 392 Cassette Drive.<br>
 
+#### Table 2-2: Slide Switch Functions
+
+| Switch | Legend            |
+|--------|-------------------|
+| SS1    | GRAD/DEG          |
+| SS2    | RUN/STEP/LOAD     |
+| SS3    | NOT USED          |
+| SS4    | NOT USED          |
+| SS5    | PROGRAM/REGISTERS |
+
+#### Table 2-3: Cassette Drive Switch Functions
+| Switch | Code | Legend         |
+|--------|------|----------------|
+| K1     | 032  | WRITE ON TAPE  |
+| K2     | 030  | READ FROM TAPE |
+
 ### 2.3.2 Keyscanner Chip ACL-02/TCL-02
 Keyscanner chips come in two versions: on ACL-02 manufactured by American Microsystems, Inc., and a TCL-02 manufactured by Texas Instruments, Inc. The two chips operate identically, but are not interchangeable because of different pin connections. However, a Display Drive board using the ACL-02 may replace a Display Drive board using the TCL-02 and vice versa.<br>
 
