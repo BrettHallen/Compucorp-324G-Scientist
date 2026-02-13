@@ -3,6 +3,26 @@ From the Service Manual.<br>
 
 Work in progress.<br>
 
+## 2.3 Keyboard And Keyscanner Principles of Operation
+The computer contains a highly sophisticated means of detecting and encoding switch closures.  Since all circuitry performing this operation is contained on the Display Drive board, with the exception of the switches themselves, most of the following discussion treats the keyboard and keyscanner portion of the Display Drive board as a single unit.<br>
+
+### 2.3.1 Keyboard
+All models use electrically identical keyboards, which contain 43 momentary action pushbutton switches and five slide switches. With the 392 Cassette Drive connected to the computer, the READ FROM TAPE and WRITE ON TAPE switches on the Cassette Drive keyboard are also part of the Keyscanning circuit. The keyboard insert covers switches not used by the computer.  Figure 2-9 is the schematic diagram of the keyboard.<br>
+
+The keyscanner circuitry transmits eightsampling pu Iseson the input lines labelled with the decimal designators Y0, Yl, Y2, Y3, Y5, Y6, Y8, and Y9. A ninth pulse enters on line YA. A closed switch allows a sampling pulse to return to the keyscanner on one of the output lines. YA pulses passing through a closed slide switch return to the keyscanner via the lines marked AX1 through AXB. A closed key switch allows a pulse to return to the keyscanner on one of the lines labelled KX1 through KXD.<br>
+
+The keyswitches operate by distorting the shape of a metal dome so it closes a circuit between an input and an output line. See Fig. 2-10. The dome is installed concave side down on a pair of concentric printed circuit lands. When the operator presses the key, the actuator presses downward against the dome, causing the center to bend toward the printed circuit board. When the key is fully depressed, the center of the dome contacts the inner printed circuit land, completing the connection between the input and output lines.<br>
+
+![Fig. 2-10 Key Switch Construction](/Principles_Of_Operation/Fig2-10.jpeg)
+
+The slide switches are comprised partly of contacts on the keyboard printed circuit board and partly of contacts on a movable assembly held captive by the actuator holder.<br>
+
+Table 2-1 tabulates the keyswitch functions of the computer. Table 2-2 does the same for the slide switches, and Table 2-3 tabulates the keyswitch functions of the 392 Cassette Drive.<br>
+
+### 2.3.2 Keyscanner Chip ACL-02/TCL-02
+
+### 2.3.3 Key Switch Scanning
+
 ### 2.3.4 Switch Group A Scanning
 During part of the routine, the computer executes the Read Switch Group A (RSWA) instruction.  Switch Group A consists of the five slide switches on the keyboard. When the RSWA command is executed, the YA pulse passes to the AX lines through the closed slide switches and into the Input Register, where it sets bits corresponding to the switches which are closed. The Input Register contents then shift serially through the Output Control, to IXDI, and are read into the
 Index Register on the Control board.<br>
