@@ -20,6 +20,16 @@ The slide switches are comprised partly of contacts on the keyboard printed circ
 Table 2-1 tabulates the keyswitch functions of the computer. Table 2-2 does the same for the slide switches, and Table 2-3 tabulates the keyswitch functions of the 392 Cassette Drive.<br>
 
 ### 2.3.2 Keyscanner Chip ACL-02/TCL-02
+Keyscanner chips come in two versions: on ACL-02 manufactured by American Microsystems, Inc., and a TCL-02 manufactured by Texas Instruments, Inc. The two chips operate identically, but are not interchangeable because of different pin connections. However, a Display Drive board using the ACL-02 may replace a Display Drive board using the TCL-02 and vice versa.<br>
+
+The Keyscanner schematic, Fig. 2-11, contains a functional block diagram of the chip. Pinnumbers for both versions are shown; for example, the T4, A16 marking for the IXDI output means that this signal is at pin 4 of the TCL-02 and at pin 16 of the ACL-02.<br>
+
+Control transmits instructions serially to the Next Instruction Register in the Keyscanner chip via the CTRL line. When the chip finishes executing the previous instruction, the new instruction transfers in parallel to the Execution Register. The Instruction Decode Logic decodes the contents of the Execution Register and uses the results as control signals for the chip logic. As the chip decodes and executes the instruction. Control transmits a new instruction in serial form to the Next Instruction Register. Thus, the chip has a look-ahead capability in that it may accept a
+new instruction while in the process of executing an earlier one.<br>
+
+The CTRL0 logic generates control instructions for other chips and transmits them to the common control buss, CTRL. The PWON logic accepts the PWON signal generated when the computer is first turned on and sets the chip logic to the required initial conditions as the computer executes the Power-On routine.<br>
+
+The DIS0 input is normally disconnected, but may be jumpered to V<sub>SS</sub>when it is desirable to disable the chip outputs for test purposes. When DIS0 is at logic 1 (V<sub>SS</sub>), the DIS0 logic disables all output gates in the chip. The special clip-on adapter used for troubleshooting applies the output disabling signal to the original chip when placing a substitute chip in parallel with the original.<br>
 
 ### 2.3.3 Key Switch Scanning
 
